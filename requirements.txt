@@ -1,0 +1,11 @@
+requests
+instagrapi
+colorama
+pycryptodome
+aiohttp
+pystyle
+httpx
+rich
+zlapi
+pyfiglet
+bs4
